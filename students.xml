@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <name>Rahul Sharma</name>
+        <course>B.Tech CSE</course>
+        <semester>1</semester>
+        <marks>85</marks>
+    </student>
+    <student>
+        <name>Priya Singh</name>
+        <course>B.Tech CSE</course>
+        <semester>1</semester>
+        <marks>92</marks>
+    </student>
+    <student>
+        <name>Amit Verma</name>
+        <course>B.Tech IT</course>
+        <semester>3</semester>
+        <marks>78</marks>
+    </student>
+    <student>
+        <name>Neha Gupta</name>
+        <course>B.Tech ECE</course>
+        <semester>2</semester>
+        <marks>88</marks>
+    </student>
+    <student>
+        <name>Karan Mehta</name>
+        <course>B.Tech CSE</course>
+        <semester>5</semester>
+        <marks>67</marks>
+    </student>
+    <student>
+        <name>Sneha Reddy</name>
+        <course>B.Tech IT</course>
+        <semester>3</semester>
+        <marks>95</marks>
+    </student>
+    <student>
+        <name>Vikas Yadav</name>
+        <course>B.Tech ECE</course>
+        <semester>4</semester>
+        <marks>73</marks>
+    </student>
+</students>
